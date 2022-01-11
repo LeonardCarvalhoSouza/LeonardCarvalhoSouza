@@ -1,6 +1,6 @@
 Olá, Leonardo aqui! 😃🇧🇷
 
-Cursando  Ciência da Computação na Descomplica estudando para se tornar um Dev Full Stack.👨‍
+Cursando  Ciência da Computação na Descomplica e estudando para me tornar um desenvolvedor Full-stack.
 
 Gosto de sempre aprender coisas novas e enfrentar desafios.
 
